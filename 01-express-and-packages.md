@@ -12,3 +12,12 @@
 7. **[Helmet](https://www.npmjs.com/package/helmet)** - Helmet helps you secure your Express apps by setting various HTTP headers. It's not a silver bullet, but it can help!
 8. **[Path](https://nodejs.org/api/path.html)** - The path module provides utilities for working with file and directory paths
 9. **[Dotenv](https://www.npmjs.com/package/dotenv)** - Dotenv is a zero-dependency module that loads environment variables from a .env file into [process.env](https://nodejs.org/docs/latest/api/process.html#process_process_env). Storing configuration in the environment separate from code is based on The [Twelve-Factor App](http://12factor.net/config) methodology.
+10. **BCrypt**
+11. **CSurf**
+12. **Express-Async-Handler**
+13. **Express-Bearer-Token**
+14. **Express-Validator**
+15. **Jsonwebtoken**
+16. **Moment**
+17. **Per-Env**
+18. **pg**
